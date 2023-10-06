@@ -19,7 +19,7 @@ I tested with an Instagram logo and it shows `original image`, `monochrome image
 
 1) Clone this repository :
 ```
-git clone https://github.com/kevinadhiguna/image-cartoonizer.git
+git clone https://github.com/Mayankkumar821/cartoonify-image.git
 ```
 
 2) Install dependencies :
@@ -38,4 +38,3 @@ python cartoon.py
 
 <br />
 
-![Hello !](https://api.visitorbadge.io/api/VisitorHit?user=kevinadhiguna&repo=image-cartoonizer&label=thanks%20for%20dropping%20in%20!&labelColor=%23000000&countColor=%23FFFFFF)
